@@ -6,7 +6,7 @@
 
 <br>
 
-{% include 02-image.md %}
+# {% include 02-image.md %}
 
 <br>
 
